@@ -1,0 +1,176 @@
+[{
+        "id": 1,
+        "name": "entradas",
+        "platos": [{
+                "id": 1,
+                "nombre": "Croquetas",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 2,
+                "nombre": "Buñuelos de espinaca",
+                "precio": 290,
+                "descripcion": "Descripcion"
+            },
+            {
+                "id": 3,
+                "nombre": "Tortilla",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 4,
+                "nombre": "Mollejas",
+                "precio": 270,
+                "descripcion": "En base de puré rustico"
+            },
+            {
+                "id": 5,
+                "nombre": "Mix de papas y boniatos",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "milas",
+        "platos": [{
+                "id": 1,
+                "nombre": "Depero",
+                "precio": 450,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 2,
+                "nombre": "Mila",
+                "precio": 290,
+                "descripcion": "Descripcion"
+            },
+            {
+                "id": 3,
+                "nombre": "Champi",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 4,
+                "nombre": "Toscana",
+                "precio": 270,
+                "descripcion": "En base de puré rustico"
+            },
+            {
+                "id": 5,
+                "nombre": "Insomnio",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "ensaladas",
+        "platos": [{
+                "id": 1,
+                "nombre": "Veggie",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 2,
+                "nombre": "Jamon crudo",
+                "precio": 290,
+                "descripcion": "Descripcion"
+            },
+            {
+                "id": 3,
+                "nombre": "Americana",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 4,
+                "nombre": "Cuatro quesos",
+                "precio": 270,
+                "descripcion": "En base de puré rustico"
+            },
+            {
+                "id": 5,
+                "nombre": "Mix de papas y boniatos",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Dulces",
+        "platos": [{
+                "id": 1,
+                "nombre": "Brownie",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 2,
+                "nombre": "Mini Rogel",
+                "precio": 290,
+                "descripcion": "Descripcion"
+            },
+            {
+                "id": 3,
+                "nombre": "Americana",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 4,
+                "nombre": "Cuatro quesos",
+                "precio": 270,
+                "descripcion": "En base de puré rustico"
+            },
+            {
+                "id": 5,
+                "nombre": "Mix de papas y boniatos",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "pizzas",
+        "platos": [{
+                "id": 1,
+                "nombre": "Depero",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 2,
+                "nombre": "Muzza",
+                "precio": 290,
+                "descripcion": "Descripcion"
+            },
+            {
+                "id": 3,
+                "nombre": "Americana",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            },
+            {
+                "id": 4,
+                "nombre": "Cuatro quesos",
+                "precio": 270,
+                "descripcion": "En base de puré rustico"
+            },
+            {
+                "id": 5,
+                "nombre": "Mix de papas y boniatos",
+                "precio": 270,
+                "descripcion": "Croquetas de bondiola, queso gouda y sesamo negro"
+            }
+        ]
+    }
+]

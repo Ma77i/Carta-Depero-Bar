@@ -1,0 +1,55 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Bubbler One', sans-serif;
+    color: #ffffff;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    position: sticky;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.navList {
+    padding: 2px 15px;
+}
+
+.cajas {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(10px, auto);
+    margin: 5% 10%;
+  }
+  .one {
+    grid-column: 1 / 4;
+    grid-row: 1;
+  }
+  .two {
+    grid-column: 4 / 4;
+    grid-row: 1;
+  }
+  .three {
+    grid-column: 1 / 4;
+    grid-row: 2;
+  }
+
+  .one, .two {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
